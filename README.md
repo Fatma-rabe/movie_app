@@ -1,17 +1,21 @@
-# movies_app
+🎬 Movie App
+A full-featured Flutter Movie App integrated with Firebase that allows users to explore movies, search for their favorites, and save them in a personal favorites list.
 
-A new Flutter project.
+📌 Features
+🔍 Search – Find movies quickly by title or keywords.
 
-## Getting Started
+❤️ Favorites List – Save and manage your favorite movies.
 
-This project is a starting point for a Flutter application.
+☁ Firebase Integration – For authentication, data storage, and cloud sync.
 
-A few resources to get you started if this is your first Flutter project:
+📱 Responsive UI – Works smoothly on mobile and web.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🎨 Modern Design – User-friendly interface with smooth navigation.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# movie_app
+🛠 Tech Stack
+Flutter (Dart) – Cross-platform development.
+
+Firebase Authentication – User sign-in and sign-up.
+
+Cloud Firestore – Store and retrieve movie data & favorites.
+
